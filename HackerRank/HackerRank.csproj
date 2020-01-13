@@ -43,7 +43,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="2D Array-DS.cs" />
+    <Compile Include="Array Manipulation.cs" />
+    <Compile Include="Arrays-DS.cs" />
     <Compile Include="Jumping on Clouds.cs" />
+    <Compile Include="Left Rotation%28better solution%29.cs" />
+    <Compile Include="Left Rotation.cs" />
+    <Compile Include="Max Min.cs" />
     <Compile Include="Pairs.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

@@ -1,1 +1,6 @@
 c:\users\iliana diaz\documents\visual studio 2015\Projects\HackerRank\HackerRank\bin\Debug\HackerRank.exe.config
+C:\Users\Iliana Diaz\Documents\Visual Studio 2015\Projects\HackerRank\HackerRank\obj\Debug\HackerRank.csprojResolveAssemblyReference.cache
+C:\Users\Iliana Diaz\Documents\Visual Studio 2015\Projects\HackerRank\HackerRank\bin\Debug\HackerRank.exe
+C:\Users\Iliana Diaz\Documents\Visual Studio 2015\Projects\HackerRank\HackerRank\bin\Debug\HackerRank.pdb
+C:\Users\Iliana Diaz\Documents\Visual Studio 2015\Projects\HackerRank\HackerRank\obj\Debug\HackerRank.exe
+C:\Users\Iliana Diaz\Documents\Visual Studio 2015\Projects\HackerRank\HackerRank\obj\Debug\HackerRank.pdb

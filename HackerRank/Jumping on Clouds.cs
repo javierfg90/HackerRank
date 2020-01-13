@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace HackerRank
 {
+    //https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited/problem?h_r=internal-search
     class Jumping_on_Clouds
     {
         static int LCM(int a, int b)
