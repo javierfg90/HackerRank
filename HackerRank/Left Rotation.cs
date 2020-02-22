@@ -8,7 +8,9 @@ namespace HackerRank
 {
     class Left_Rotation
     {
-        static int[] rotateLeft(int[] a)
+        //https://www.hackerrank.com/challenges/array-left-rotation/problem
+
+        static int[] rotateLeftOnce(int[] a)
         {
             int[] rotation = new int[a.Length];
             rotation[a.Length - 1] = a[0];
@@ -21,10 +23,10 @@ namespace HackerRank
         static int[] leftRotation(int[] a, int d)
         {
             int r = 2;
-            int[] c = rotateLeft(a);
+            int[] c = rotateLeftOnce(a);
             while (r <= d)
             {
-                int[] b = rotateLeft(c);
+                int[] b = rotateLeftOnce(c);
                 c = b;
                 r++;
             }

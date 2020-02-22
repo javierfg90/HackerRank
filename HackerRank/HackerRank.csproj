@@ -44,13 +44,19 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="2D Array-DS.cs" />
+    <Compile Include="Append and Delete.cs" />
     <Compile Include="Array Manipulation.cs" />
     <Compile Include="Arrays-DS.cs" />
+    <Compile Include="Insert a node at the head of a Linked List.cs" />
+    <Compile Include="Insert a node at the tail of a Linked list.cs" />
+    <Compile Include="Insert node at a specific position of a linked list.cs" />
     <Compile Include="Jumping on Clouds.cs" />
     <Compile Include="Left Rotation%28better solution%29.cs" />
     <Compile Include="Left Rotation.cs" />
     <Compile Include="Max Min.cs" />
+    <Compile Include="Non Divisible Subset.cs" />
     <Compile Include="Pairs.cs" />
+    <Compile Include="Print the elements of a Linked List.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
